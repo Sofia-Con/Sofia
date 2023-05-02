@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = ""
 logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+image = "/media/berries-ga54e6caf9_1920.jpg"
 color = "#5d9fbd"
 +++
