@@ -1,10 +1,10 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![](apple-g160ab4ed3_1920.jpg)
 
 ## My Name
 
